@@ -14,7 +14,7 @@ function multiplyArray (arr){
     }
     return returnArra
 }
-multiplyArray([1,2,3,4])
+
 
 
 
